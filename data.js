@@ -15,13 +15,13 @@ const jsonData = {
         },
         {
             type: "Exercise - WP",
-            title: "Chap 7.1 + 7.2 + 9.1 (cookies)",
+            title: "Chap 7.1 + 7.2 + 9.1 (sessions)",
             description: "Music-Download application_1",
             link: "https://huy-music-f9786f94f906.herokuapp.com/",
         },
         {
             type: "Exercise - WP",
-            title: "Chap 7.1 + 7.2 + 9.1 (sessions)",
+            title: "Chap 7.1 + 7.2 + 9.1 (cookies)",
             description: "Music-Download application_2",
             link: "https://huy-download-9de6895a6994.herokuapp.com/",
         },
